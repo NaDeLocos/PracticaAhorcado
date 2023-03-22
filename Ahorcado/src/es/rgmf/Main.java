@@ -152,5 +152,6 @@ public class Main {
         System.out.println("Frase:\t\t" + frase);
 
         entrada.close();
+        //revisar algunos comandos
     }
 }
